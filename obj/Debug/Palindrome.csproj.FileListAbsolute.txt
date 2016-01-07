@@ -1,0 +1,6 @@
+C:\Users\cdros\OneDrive\Documents\Visual Studio 2013\Projects\Palindrome\Palindrome\bin\Palindrome.dll.config
+C:\Users\cdros\OneDrive\Documents\Visual Studio 2013\Projects\Palindrome\Palindrome\bin\Palindrome.dll
+C:\Users\cdros\OneDrive\Documents\Visual Studio 2013\Projects\Palindrome\Palindrome\bin\Palindrome.pdb
+C:\Users\cdros\OneDrive\Documents\Visual Studio 2013\Projects\Palindrome\Palindrome\obj\Debug\Palindrome.csprojResolveAssemblyReference.cache
+C:\Users\cdros\OneDrive\Documents\Visual Studio 2013\Projects\Palindrome\Palindrome\obj\Debug\Palindrome.dll
+C:\Users\cdros\OneDrive\Documents\Visual Studio 2013\Projects\Palindrome\Palindrome\obj\Debug\Palindrome.pdb
